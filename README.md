@@ -1,7 +1,5 @@
 ![Header](./my-banner.png)
 
-## 👋 Hi, I'm Paul Williams
-
 ### 🚀 What I Do
 I have a passion for building robust, scalable solutions. My days are fueled by Java, Spring Boot, and Angular magic.
 
