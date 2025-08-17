@@ -15,7 +15,7 @@ Check out [ff4j-spring-boot-java](https://github.com/ff4j/ff4j-spring-boot-java)
 - [paulwilliams.dev](https://paulwilliams.dev)
 
 ### 📜 Motto
-> "If you can't explain it simply, you don't understand it well enough."
+> "If you can't explain it simply, you don't understand it well enough." - _Albert Einstein_
 
 ### 🎉 Fun Fact
 I believe great architecture should make things easy for everyone — not just the experts!
