@@ -1,7 +1,7 @@
 ![Header](./my-banner-github.svg)
 
 ### 🚀 What I Do
-I have a passion for building robust, scalable solutions. My days are fueled by Java, Spring Boot, and Angular magic.
+Architect by title, problem-solver by habit. I have a passion for building robust, scalable solutions. My days are fueled by Java, Spring Boot, and Angular magic.
 
 ### 🛠 Top Skills & Technologies
 - 🧙‍♂️Java wizardry 
