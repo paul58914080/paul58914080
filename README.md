@@ -8,7 +8,7 @@ I have a passion for building robust, scalable solutions. My days are fueled by 
 - ☕ Spring Boot specialist 
 - ⚡ Angular aficionado 
 - 💡Map big ideas into clear roadmaps and guardrails 
-- 🛠️Build event-driven, cloud-native services that recover before anyone notices ⚡
+- 🛠️Build event-driven, cloud-native services that recover before anyone notices
 - 🧑‍🏫Mentor engineers so good practice becomes habit
 
 ### 🌟 Favorite Project
