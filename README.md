@@ -1,4 +1,4 @@
-![Header](./my-banner.png)
+![Header](./my-banner.svg)
 
 ### 🚀 What I Do
 I have a passion for building robust, scalable solutions. My days are fueled by Java, Spring Boot, and Angular magic.
