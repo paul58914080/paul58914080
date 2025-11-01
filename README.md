@@ -4,12 +4,17 @@
 I have a passion for building robust, scalable solutions. My days are fueled by Java, Spring Boot, and Angular magic.
 
 ### 🛠 Top Skills & Technologies
-- Java wizardry 🧙‍♂️
-- Spring Boot specialist ☕
-- Angular aficionado ⚡
+- 🧙‍♂️Java wizardry 
+- ☕ Spring Boot specialist 
+- ⚡ Angular aficionado 
+- 💡Map big ideas into clear roadmaps and guardrails 
+- 🛠️Build event-driven, cloud-native services that recover before anyone notices ⚡
+- 🧑‍🏫Mentor engineers so good practice becomes habit
 
 ### 🌟 Favorite Project
-Check out [ff4j-spring-boot-java](https://github.com/ff4j/ff4j-spring-boot-java) — a personal favorite for feature flipping in Java microservices!
+
+- Check out [ff4j-spring-boot-java](https://github.com/ff4j/ff4j-spring-boot-java) — a personal favorite for feature flipping in Java microservices!
+- Check out [devs-from-matrix](https://github.com/devs-from-matrix) — scaffolding hexagonal architecture projects
 
 ### 🔗 Find Me Online
 - [paulwilliams.dev](https://paulwilliams.dev)
